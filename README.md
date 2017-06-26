@@ -1,2 +1,2 @@
 # retail_bussiness
-small standalone application for shops
+small standalone application for shops hai
